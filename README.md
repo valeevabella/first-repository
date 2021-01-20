@@ -1,2 +1,2 @@
-# first-repository
+# firstrepository
 My first repository
